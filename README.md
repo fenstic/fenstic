@@ -61,6 +61,9 @@ A lightweight, modern utility that provides instant, customizable visual feedbac
 **[fent.rip](https://fent.rip)**  
 A free URL shortener with no sign-up required.
 
+**[New Page](https://m3e.fent.rip)**  
+My take on the new page experience
+
 **more to come.**
 
 ---
@@ -77,8 +80,8 @@ A free URL shortener with no sign-up required.
 
 **find me online:**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gahk)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/204625571865427968)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gitlarp)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fancylarp)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bowriss)
 
 </div>
